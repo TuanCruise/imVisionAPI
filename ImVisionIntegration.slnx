@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ImVision.Host/ImVision.Host.csproj" />
+    <Project Path="src/ImVision.Integration/ImVision.Integration.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ImVision.Integration.Tests/ImVision.Integration.Tests.csproj" />
+  </Folder>
+</Solution>
